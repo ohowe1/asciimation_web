@@ -81,7 +81,6 @@ function drawSprite(sprite, textBuffer) {
   for (let i = 0; i < sprite.height; i++) {
     for (let j = 0; j < sprite.width; j++) {
       const char = sprite.content[i][j];
-      console.log(char, TRANSPARENT_CHAR, char !== TRANSPARENT_CHAR);
       if (char !== TRANSPARENT_CHAR) {
         const x = sprite.x + j;
         const y = sprite.y + i;
