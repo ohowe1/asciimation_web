@@ -1,0 +1,1 @@
+for my schools data structures / program development class we had an "asciimation" assignment where we had to make an animation with ascii. i thought ours looked cool so i did a very basic port of the code to have an identical animation published on the web.
